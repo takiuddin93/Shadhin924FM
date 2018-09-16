@@ -1,0 +1,44 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="radio.android.app.SMSPortalFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+
+        <EditText
+            android:id="@+id/fullName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:ems="10"
+            android:textAlignment="center"
+            android:layout_gravity="center_horizontal"
+            android:inputType="textPersonName"
+            android:hint="Full Name" />
+
+        <EditText
+            android:id="@+id/textMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:ems="10"
+            android:textAlignment="center"
+            android:layout_gravity="center_horizontal"
+            android:inputType="textCapSentences|textMultiLine"
+            android:maxLines="5"
+            android:hint="Message" />
+
+        <Button
+            android:id="@+id/sendButon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Send" />
+    </LinearLayout>
+
+</FrameLayout>

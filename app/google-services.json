@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "795200250452",
+    "firebase_url": "https://radio-shadhin-924-fm.firebaseio.com",
+    "project_id": "radio-shadhin-924-fm",
+    "storage_bucket": "radio-shadhin-924-fm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795200250452:android:136747563fdcffa1",
+        "android_client_info": {
+          "package_name": "radio.android.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795200250452-6q7vi6pqr7noctr9s78ckmicn4bjph9p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "radio.android.app",
+            "certificate_hash": "ae69525d3fc4a2345024e635a8147b9e942b0c7f"
+          }
+        },
+        {
+          "client_id": "795200250452-gdbi584p835sm5hb721kbghbb499qsvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "radio.android.app",
+            "certificate_hash": "ce4355f8c6d5f067c5474864b5dee950872c0eb1"
+          }
+        },
+        {
+          "client_id": "795200250452-hrokvbkfo4shieccet2rao2eij3ef248.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBgP4xvHGLdLfXUxK1BxN-nMGlHkMmJuQ"
+        },
+        {
+          "current_key": "AIzaSyCuIwhgPZ7qP2yegoJc5IIDhyKgvDqIbjE"
+        },
+        {
+          "current_key": "AIzaSyBL61qx9Lb3rydwxHmxWw-PoiE2UFMUeS8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795200250452-hrokvbkfo4shieccet2rao2eij3ef248.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
